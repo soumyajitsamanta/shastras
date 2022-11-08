@@ -62,6 +62,24 @@ There are these sources of knowledge:
 
 ## Puranas
 
-| Puranas |
-| ------- |
+| Mahapurana     |
+| -------------- |
+| Brahma         |
+| Padma          |
+| Vishnu         |
+| Shiva          |
+| Devi Bhagavata |
+| Naradiya       |
+| Markandeya     |
+| Agneya         |
+| Bhavishya      |
+| Brahmavaivarta |
+| Linga          |
+| Varaha         |
+| Skanda         |
+| Vamana         |
+| Kurma          |
+| Matsya         |
+| Garuda         |
+| Brahmanda      |
 
